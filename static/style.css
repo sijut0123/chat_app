@@ -1,6 +1,17 @@
 .app-title {
   color: #ff0000;
 }
+button {
+  font-weight: bold;
+  border: 5px solid;
+  font-size: 13px;
+  height: 25px;
+  color: #2e4e6f;
+  background-color: #ffffff;
+  border-radius: 15px;
+  border-color: #2d6292;
+  border-width: 1px;
+}
 input {
   height: 21px;
   padding: 1px 2px;
@@ -12,15 +23,4 @@ input {
   padding-left: 15px;
   margin-left: 60px;
   width: 210px;
-}
-button {
-  font-weight: bold;
-  border: 5px solid;
-  font-size: 13px;
-  height: 25px;
-  color: #2e4e6f;
-  background-color: #ffffff;
-  border-radius: 15px;
-  border-color: #2d6292;
-  border-width: 1px;
 }
